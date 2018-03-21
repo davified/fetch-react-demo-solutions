@@ -1,0 +1,17 @@
+.profile-card {
+  max-width: 300px;
+  margin: 10px auto;
+  border: 1px solid grey;
+  border-radius: 5%;
+  display: grid;
+  grid-template-columns: 1fr 3fr
+}
+
+.profile-icon {
+  border-radius: 50%;
+}
+
+#left {
+  vertical-align: middle;    
+  line-height: 200px; 
+}
